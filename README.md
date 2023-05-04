@@ -1,1 +1,1 @@
-# stock_predictor-_App_1
+# stock_predictor_App_1
